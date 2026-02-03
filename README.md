@@ -1,13 +1,13 @@
 # 💝 Valentine's Day Website 2025 💝
 
-[![Stars](https://img.shields.io/github/stars/End2EndAI/valentine-website-2025?style=social)](https://github.com/End2EndAI/valentine-website-2025/stargazers)
-[![Fork](https://img.shields.io/github/forks/End2EndAI/valentine-website-2025?style=social)](https://github.com/End2EndAI/valentine-website-2025/fork)
+[![Stars](https://img.shields.io/github/stars/End2EndAI/valentine-website-2026?style=social)](https://github.com/End2EndAI/valentine-website-2025/stargazers)
+[![Fork](https://img.shields.io/github/forks/End2EndAI/valentine-website-2026?style=social)](https://github.com/End2EndAI/valentine-website-2026/fork)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Tweet](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FEnd2EndAI%2Fvalentine-website-2025)](https://twitter.com/intent/tweet?text=%F0%9F%92%9D%20Create%20your%20own%20Valentine%27s%20website%20for%20free%21%20No%20coding%20required%21%0A%F0%9F%8E%81%20Fully%20customizable%2C%20easy%20to%20deploy%20with%20your%20own%20website%20name%0A%E2%9C%A8%20Try%20it%20now%3A%20https%3A%2F%2Fgithub.com%2FEnd2EndAI%2Fvalentine-website-2025%0A%23ValentinesDay2025%20%23WebDev%20%23GitHub%20%23Love)
+[![Tweet](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FEnd2EndAI%2Fvalentine-website-2026)](https://twitter.com/intent/tweet?text=%F0%9F%92%9D%20Create%20your%20own%20Valentine%27s%20website%20for%20free%21%20No%20coding%20required%21%0A%F0%9F%8E%81%20Fully%20customizable%2C%20easy%20to%20deploy%20with%20your%20own%20website%20name%0A%E2%9C%A8%20Try%20it%20now%3A%20https%3A%2F%2Fgithub.com%2FEnd2EndAI%2Fvalentine-website-2026%0A%23ValentinesDay2026%20%23WebDev%20%23GitHub%20%23Love)
 
 A beautiful, interactive Valentine's Day website generator to ask your special someone to be your Valentine! Create your own personalized version in minutes. Perfect for Valentine's Day 2026! 💝
 
-🌟 **[Live Demo](https://end2endai.github.io/valentine-website-2025)** | 🚀 **[Quick Start](#-quick-start-guide)** | 🌐 **[Deploy Your Website](#4-make-it-live-get-your-online-website-url)**
+🌟 **[Live Demo](https://end2endai.github.io/valentine-website-2026)** | 🚀 **[Quick Start](#-quick-start-guide)** | 🌐 **[Deploy Your Website](#4-make-it-live-get-your-online-website-url)**
 
 ## 🌟 Share The Love
 
@@ -26,8 +26,8 @@ Ready-to-use messages for sharing:
 ```
 💝 Create your own Valentine's website for free! No coding required!
 🎁 Fully customizable, easy to deploy with your own website name
-✨ Try it now: https://github.com/End2EndAI/valentine-website-2025
-#ValentinesDay2025 #WebDev #GitHub #Love
+✨ Try it now: https://github.com/End2EndAI/valentine-website-2026
+#ValentinesDay2026 #WebDev #GitHub #Love
 ```
 
 **Instagram/Facebook**
@@ -38,8 +38,8 @@ Create your own interactive Valentine's website in minutes - completely FREE!
 🎨 Fully customizable
 🌐 Get your own website link
 
-Try it now: https://github.com/End2EndAI/valentine-website-2025
-#ValentinesDay2025 #Love #WebDev #CodingWithLove
+Try it now: https://github.com/End2EndAI/valentine-website-2026
+#ValentinesDay2026 #Love #WebDev #CodingWithLove
 ```
 
 **Reddit (r/webdev, r/coding)**
