@@ -86,8 +86,9 @@ Note: Make sure you're logged into your GitHub account. If you don't have one, y
 Here's what you can customize in `config.js`:
 ```javascript
 // Basic Information
-valentineName: "Iyaniwuraolami"                    // Your Valentine's name
-pageTitle: "Will You Be My Valentine? 💝" // Browser tab title
+​The Main Question: "Iyaniwuraolami, will you make me the happiest person and be my Valentine for 2026?"
+​The "No" Button (if she tries to click it): "Wait, try again! 😉", "You're clicking the wrong one!", "Is that your final answer? 🥺", "I'll keep asking! ❤️"
+​The "Yes" Message: "I knew you'd say yes! You just made my entire year, Iyaniwuraolami! 🌹✨"
 
 // Floating Background Elements
 floatingEmojis: {
